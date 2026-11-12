@@ -1,0 +1,11 @@
+{
+  "name": "12aehmjhtfv",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
